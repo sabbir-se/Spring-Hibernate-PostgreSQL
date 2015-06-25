@@ -1,2 +1,2 @@
 # Spring-Hibernate-PostgreSQL
-Fundamentals of the Spring framework &amp; Introduction to Hibernate explains what is ORM framework and how to start writing the simple hibernate application.
+This example will use Maven to create a simple Java project structure, and demonstrate how to use Hibernate in Spring framework to do the data manipulation works(insert, select, update and delete) in PostgreSQL database.
